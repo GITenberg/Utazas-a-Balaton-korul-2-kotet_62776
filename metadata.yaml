@@ -1,0 +1,28 @@
+_repo: Utazas-a-Balaton-korul-2-kotet_62776
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eötvös, Károly
+    alias: Eotvos, Karoly
+    birthdate: 1842
+    deathdate: 1916
+    gutenberg_agent_id: '52119'
+    url: http://www.gutenberg.org/2009/agents/52119
+    wikipedia: https://hu.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_K%C3%A1roly
+description: ''
+gutenberg_issued: '2020-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62776'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DB'
+- !lcsh 'Balaton, Lake (Hungary) -- Description and travel'
+- !lcsh 'Eötvös, Károly, 1842-1916 -- Travel -- Hungary -- Balaton, Lake'
+- !lcc 'PH'
+- GITenberg
+title: Utazás a Balaton körül (2. kötet)
+url: http://www.gutenberg.org/ebooks/62776
